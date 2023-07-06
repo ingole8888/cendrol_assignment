@@ -17,8 +17,8 @@ function App() {
    }, [])
   
   return (<>
-     <div style={{backgroundColor:"#4283EE", width:"100%", textAlign:"center"}}>
-      <h1 style={{color:"#22C55E"}}>Chuck Norries</h1>
+     <div style={{backgroundColor:"#4283EE", width:"100%", textAlign:"center", marginTop:"-25px"}}>
+      <h1 style={{color:"#22C55E",paddingTop:"10px"}}>Chuck Norries</h1>
       <Categories categories={categories}/>
     </div>
     </>
