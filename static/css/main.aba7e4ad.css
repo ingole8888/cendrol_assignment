@@ -1,0 +1,2 @@
+.mainBox{grid-gap:1.5rem;display:grid;gap:1.5rem;grid-template-columns:repeat(4,1fr);margin:auto;padding-bottom:10%;padding-top:1%;text-align:center;width:80%}.subBox{background-color:#fff;border-radius:1rem;cursor:pointer;height:100%;margin-bottom:20%;width:100%}.myModal{border:1px solid #000;color:#fff;padding:.5rem}@media (max-width:850px){.mainBox{display:grid;grid-template-columns:repeat(2,1fr);text-align:center}}
+/*# sourceMappingURL=main.aba7e4ad.css.map*/
